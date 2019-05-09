@@ -24,3 +24,7 @@ table = maketrans("abcdefghijklmnopqrstuvwxyz", "cdefghijklmnopqrstuvwxyzab")
 result = raw.translate(table)
 print(result)
 
+data ="map"
+tab = maketrans("abcdefghijklmnopqrstuvwxyz", "cdefghijklmnopqrstuvwxyzab")
+res = data.translate(tab)
+print("The result is:", res)
