@@ -1,3 +1,4 @@
+### By AstroAmat ###
 print "The hints are:","k -> m","o -> q","e -> g"
 print"so... these are K,L,M  O,P,Q   E,F,G \n"
 print   "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle grgl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj.\n"
